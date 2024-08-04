@@ -10,4 +10,4 @@ Git Workflow
 1. create new file in local folder. check status: git status
 2. git add file_name to stage the new file
 3. git commit -m "file_name" to commit changes
-4. git log to check details repo git workflow
+4. git log to check details repo git Workflow
