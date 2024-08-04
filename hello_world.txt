@@ -1,1 +1,13 @@
-Some text!
+Making some changes and adding notes!
+
+Check the latest version of git: git --version
+
+Add a new repo, check add a 'README file', select 'CODE' and copy SSH clone option line
+Make a git clone command with SSH line in local repos/ folder
+cd into new repo folder and run command 'git remote -v' to check push and fetch origins
+
+Git Workflow
+1. create new file in local folder. check status: git status
+2. git add file_name to stage the new file
+3. git commit -m "file_name" to commit changes
+4. git log to check details repo git workflow
